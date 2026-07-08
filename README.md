@@ -15,7 +15,8 @@ Customers place orders through Telegram, and the workflow handles the rest autom
 Full workflow screenshot:
 
 ![Workflow](orders_workflow.PNG)
- Features
+
+<h3>Features</h3>
 Receive orders from Telegram
 Save new orders to Google Sheets
 Update inventory after each order
@@ -34,6 +35,7 @@ Webhooks
 Customer submits an order through Order form 
 
 ![Order Form](orders-form.PNG)
+
 The workflow validates the request.
 A unique order ID is generated.
 Google Sheets is checked for product availability.
