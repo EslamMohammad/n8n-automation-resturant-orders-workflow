@@ -32,6 +32,8 @@ JavaScript
 Webhooks
 <<h3>How It Works</h3>
 Customer submits an order through Order form 
+
+![Order Form](orders-form.PNG)
 The workflow validates the request.
 A unique order ID is generated.
 Google Sheets is checked for product availability.
